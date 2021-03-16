@@ -1,0 +1,19 @@
+---
+layout: default
+title: Investments
+---
+
+<h1>My Investments</h1>
+<p>Transparency is important. There's a dangerous rise currently in 'TikTok traders' that post their astonishing returns and encourage viewers to do the same. Making a quick buck from investing is made out to be very easy. But they only show their wins, not their losses. This is dangerous. And combine that with no explanation of the rationale behind their investments.</p>
+
+<p>On <a href="https://twitter.com/harrymoy">Twitter</a>, I tweet sometimes about my investments. So for the sake of transparency, this is a list of what I hold and why I hold them. I'm also including the average buy price where I have the data.</p>
+    
+<p>Not only am I providing my rationale FOR investing, but I'm also explaining the argument AGAINST investing. Having a balanced view makes the decision-making process more thoughtful.</p>
+    
+<p>I am in my investments for the long-term, all of my investments I have great conviction in and believe they will continue to grow.</p>
+    
+<p><strong>In no way shape or form am I advising anybody to invest in any of the below investments. In fact, in some I'm explaining why NOT to invest. This is not financial advice.</strong></p>
+
+{% for investment in site.investments %}
+<a href={{ investment.permalink }}><h2>{{ investment.name }}</h2></a>
+{% endfor %}

@@ -33,6 +33,8 @@ author: Harry Moy
 collections:
   books:
     output: true
+  investments:
+    output: true
 
 defaults:
   - scope:
@@ -45,6 +47,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "investments"
+    values:
+      layout: "investment"
   - scope:
       path: ""
     values:

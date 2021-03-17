@@ -5,7 +5,11 @@ date:   2021-03-01 19:13:50 +0000
 permalink: /thoughts-on-the-coinbase-s1/
 categories: investments
 summary: Coinbase S-1's looks positive. But remember, crypto is in a bull market currently. So what about when it's not in a bull market?
+image: /images/coinbase.png
 ---
+
+![Coinbase logo](/images/coinbase.png)
+
 Coinbase has filed their S-1 (an overview of their business) for a direct listing to go public on the NASDAQ. This is a huge moment for the cryptoeconomy. Love Coinbase or hate them, this is big. I first bought Bitcoin in 2012 at the height of the Silk Road days and it was a difficult user experience, involving shady transactions and no verification. Since then, we're seeing KYC and AML becoming standard for large crypto exchanges.
 
 And most starting their crypto journey will start it with Coinbase.

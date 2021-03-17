@@ -3,6 +3,7 @@ name: Twitter
 average: $72.50
 permalink: /twitter
 ticker: NYSE:TWTR
+summary: Thoughts and rationale on why I own Twitter stock
 ---
 
 I love Twitter. It's my favourite social network. I fully believe there is no social network as much at the centre of pop culture as Twitter. Twitter not only shares news, it creates news. The number of times you see 'x tweeted this' being a news story is only increasing. More eyes are coming to Twitter and staying on Twitter (monetizable daily active users are up 27% YoY). It may not be as cool as Instagram or TikTok, but it's certainly cooler than Facebook.

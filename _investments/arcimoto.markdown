@@ -3,6 +3,7 @@ name: Arcimoto
 average: $18.31
 permalink: /arcimoto
 ticker: NASDAQ:FUV
+summary: Thoughts and rationale on why I own Arcimoto stock
 ---
 
 Arcimoto ($FUV) is a company developing small electric vehicles they call 'Fun Utility Vehicles' or FUVs. FUVs are small-sized EVs that can fit two people in them and the reviews suggest they're a great vehicle to drive.

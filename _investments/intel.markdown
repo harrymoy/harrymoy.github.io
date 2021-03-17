@@ -3,6 +3,7 @@ name: Intel
 average: $56.87
 permalink: /intel
 ticker: NASDAQ:INTC
+summary: Thoughts and rationale on why I own Intel stock
 ---
 
 Intel is doomed. Apparently. They were once a manufacturing chip giant but now they are a mocked in the semiconductor industry. Repeatedly late in releasing products to the point that their customers are moving to designing their own chips. Apple has recently been transitioning the Mac line to using the M-Series chips and are using TSMC to manufacture their chips. This vertical integration makes sense for Apple. But there is a chance that other computer makers will follow in their direction after seeing their success.

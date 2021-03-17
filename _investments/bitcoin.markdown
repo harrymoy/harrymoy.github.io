@@ -3,6 +3,7 @@ name: Bitcoin
 average: $13,230
 permalink: /bitcoin
 ticker: COINBASE:BTCUSD
+summary: Thoughts and rationale on why I own Bitcoin
 ---
 
 ## Why I've Invested

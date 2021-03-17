@@ -3,6 +3,7 @@ name: ArcLight Clean Transition Corp (Proterra)
 average: $23.18
 permalink: /arclight
 ticker: NASDAQ:ACTC
+summary: Thoughts and rationale on why I've invested in Arclight
 ---
 
 ArcLight Clean Transition Corp ($ACTC) is a SPAC that has merged with Proterra, a leading manufacturer in electric commercial vehicles. A SPAC is a blank cheque company that merges with a private company to take them public. This way the private company doesn't have to undergo a laborious IPO process.

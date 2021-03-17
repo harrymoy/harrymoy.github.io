@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A world where your sneakers can secure you a loan"
+title:  A world where your sneakers can secure you a loan
 date:   2021-02-14 14:47:50 +0000
 permalink: /a-world-where-your-sneakers-can-secure-you-a-loan/
 categories: cryptocurrencies nfts

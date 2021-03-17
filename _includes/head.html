@@ -8,7 +8,11 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
-  <title>{{ page.title }}</title>
+  {% if page.title %}
+    <title>{{ page.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
   
   <!-- Twitter cards - taken from https://brianbunke.com/blog/2017/09/06/twitter-cards-on-jekyll/ -->
   <meta name="twitter:site"    content="@{{ site.twitter_username }}">

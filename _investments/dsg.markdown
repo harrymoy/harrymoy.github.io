@@ -3,6 +3,7 @@ name: DSG Global
 average: $0.88
 permalink: /dsg
 ticker: OTC:DSGT
+summary: Thoughts and rationale on why I own DSG Global stock
 ---
 
 I like CleanTech and my portfolio reflects that. DSG Global is a company that has a subsidiary, Imperium Motors, that exclusively licenses and imports electric vehicles from China to sell the North American market.

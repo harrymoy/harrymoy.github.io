@@ -4,6 +4,8 @@ title:  "A world where your sneakers can secure you a loan"
 date:   2021-02-14 14:47:50 +0000
 permalink: /a-world-where-your-sneakers-can-secure-you-a-loan/
 categories: cryptocurrencies nfts
+summary: With NFTs rising in popularity, what's stopping them from digitally proving ownership of a physical asset, and then using that as collateral?
+image: /images/stockx.jpeg
 ---
 Most loans are unsecured in the finance world if you miss payments, you're in trouble. Mortgages and car financing are the most common examples of a secured loan. Fail to pay, and they're taken away. This works because there's proof of ownership, a house deed or a car ownership certificate. And the proof is undeniable; you own the house or car - there's no doubt.
 

@@ -10,4 +10,6 @@ Away from work, I'm an Arsenal fan ⚽️ and volunteer for two different charit
 
 With my good friend Sam, I also write on a blog called [Futurae Fidelis](https://futuraefidelis.co.uk). This is all about the future and futurism, something that really excites me.
 
+If you'd like talk about whatever, feel free to [book a call with me](https://chat.harrymoy.com) with me.
+
 This website is a dump for my public notes and thoughts.

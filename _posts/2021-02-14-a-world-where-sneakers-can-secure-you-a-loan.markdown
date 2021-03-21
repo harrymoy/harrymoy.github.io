@@ -2,7 +2,7 @@
 layout: post
 title:  A world where your sneakers can secure you a loan
 date:   2021-02-14 14:47:50 +0000
-permalink: /a-world-where-your-sneakers-can-secure-you-a-loan/
+permalink: /secure-loan-with-sneakers
 categories: cryptocurrencies nfts
 summary: With NFTs rising in popularity, what's stopping them from digitally proving ownership of a physical asset, and then using that as collateral?
 image: /images/stockx.jpeg

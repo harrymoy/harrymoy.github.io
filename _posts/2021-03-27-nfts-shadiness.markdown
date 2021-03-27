@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NFTs' Shadiness
-date:   2021-03-26 14:47:50 +0000
+date:   2021-03-27 12:05:50 +0000
 permalink: /nfts-shadiness
 categories: cryptocurrencies nfts
 summary: NFTs are rising in popularity, but I believe there are good reasons to be sceptical about the bubble

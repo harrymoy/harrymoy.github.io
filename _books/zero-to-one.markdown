@@ -2,6 +2,7 @@
 book_name: Zero To One
 author: Peter Thiel
 permalink: /zero-to-one
+amazon: https://www.amazon.co.uk/Zero-One-Notes-Start-Future/dp/0753555204/
 ---
 
 - When something has been created and then further expanded upon, that's 1 to n. Globalisation for example has reduced barriers to moving goods and technologies but it has not produced innovation itself.

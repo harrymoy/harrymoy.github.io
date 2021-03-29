@@ -2,6 +2,7 @@
 book_name: The Biggest Bluff
 author: Maria Konnikova
 permalink: /the-biggest-bluff
+amazon: https://www.amazon.co.uk/Biggest-Bluff-Learned-Attention-Control/dp/000827083X/
 ---
 
 - We often believe we have a lot of control over events but we fail to factor in how much luck plays a role in our life

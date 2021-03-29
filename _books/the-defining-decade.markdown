@@ -2,6 +2,7 @@
 book_name: The Defining Decade
 author: Meg Jay
 permalink: /the-defining-decade
+amazon: https://www.amazon.co.uk/Defining-Decade-Your-Twenties-Matter/dp/1782114920/
 ---
 
 - Build identity capital. Identity capital is the different parts of your life that makes up your experience, this capital can help you connect with people. This could be achieved through extra-curricular activity such as voluntary work

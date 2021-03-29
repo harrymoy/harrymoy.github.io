@@ -2,6 +2,7 @@
 book_name: Show Your Work!
 author: Austin Kleon
 permalink: /show-your-work
+amazon: https://www.amazon.co.uk/Show-Your-Work-Getting-Discovered/dp/076117897X/
 ---
 
 - Through creativity, showing your work and contributing to a community, you're creating an opportunity where your next boss may not have to read your CV. They might read your blog instead

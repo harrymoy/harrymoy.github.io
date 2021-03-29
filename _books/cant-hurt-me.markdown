@@ -2,6 +2,7 @@
 book_name: Can't Hurt Me
 author: David Goggins
 permalink: /cant-hurt-me
+amazon: https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/
 ---
 - David was born into a household with an abusive father and was the only black child at his school - he was dealt a bad hand growing up but didn't let that dictate how he'd live his life
 - Throughout his childhood he cheated through school and succumbed to racism (he decided to make himself the stereotype black person that people thought he was). Upon realising how much he needed to change to get himself ready, he looked himself in the mirror and spoke the truth

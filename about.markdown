@@ -8,8 +8,10 @@ Hi, I'm Harry, a technology architect from 🇬🇧 as part of my day job I solv
 
 Away from work, I'm an Arsenal fan ⚽️ and volunteer for two different charities, chairing the board for one of them. Often I'm researching stocks, listening to podcasts, reading books, attempting to cook and lift weights (not at the same time) and writing code and real words.
 
-With my good friend Sam, I also write on a blog called [Futurae Fidelis](https://futuraefidelis.co.uk). This is all about the future and futurism, something that really excites me.
+With my good friend Sam, I also write on a blog called [Futurae Fidelis](https://futuraefidelis.co.uk). This is all about the future and futurism, something that really excites me. 
 
-If you'd like talk about whatever, feel free to [book a call](https://chat.harrymoy.com) with me.
+And I have a [weekly newsletter](https://hmoy.me/newsletter) where I write about thoughts on growth and productivity, and share my learnings.
+
+If you'd like talk about whatever, feel free to [book a call](https://hmoy.me/chat) with me.
 
 This website is a dump for my public notes and thoughts.

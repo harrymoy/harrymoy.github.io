@@ -1,7 +1,7 @@
 ---
 name: Vanguard LifeStrategy 60% Equity
 average: $N/A
-permalink: /vanfuard-life
+permalink: /vanguard-life
 summary: Thoughts and rationale on why I buy the Vanguard ETF
 ---
 

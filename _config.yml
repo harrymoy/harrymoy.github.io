@@ -37,6 +37,8 @@ collections:
     output: true
   investments:
     output: true
+  notes:
+    output: true
 
 defaults:
   - scope:
@@ -54,6 +56,11 @@ defaults:
       type: "investments"
     values:
       layout: "investment"
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
   - scope:
       path: ""
     values:

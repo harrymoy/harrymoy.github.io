@@ -1,5 +1,5 @@
 ---
-title: The Rise of Cloud Kitchens
+title: Cloud Kitchens
 permalink: /cloud-kitchens
 ---
 

@@ -2,9 +2,5 @@
   link: /
 - name: About
   link: /about
-- name: Book Notes
-  link: /books
-- name: Investments
-  link: /investments
 - name: Notes
   link: /notes

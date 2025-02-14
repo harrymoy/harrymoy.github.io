@@ -51,11 +51,6 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "investments"
-    values:
-      layout: "investment"
-  - scope:
-      path: ""
     values:
       layout: "default"
     

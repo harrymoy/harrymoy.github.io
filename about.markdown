@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi, I'm Harry, a senior software engineer from 🇬🇧 working for a FinTech start-up. I'm also a venture scout for [On Deck](https://beondeck.com) for their ODX accelerator. 

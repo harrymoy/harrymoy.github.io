@@ -4,10 +4,10 @@
 layout: home
 ---
 
-Hi, I'm Harry, a senior software engineer from 🇬🇧 working for a FinTech start-up. I'm also a venture scout for [On Deck](https://beondeck.com) for their ODX accelerator. 
+I'm a software engineer working in London for a HealthTech. My previous experience is working in FinTech/
 
-Away from work, I watch football and rugby, listen to podcasts, read books, attempt to cook and lift weights (not at the same time) and write code and real words.
+Away from my day job, I angel invest and build products (such as [Nearly](https://www.producthunt.com/products/nearly)).
 
-And I have a [weekly newsletter](https://hmoy.me/newsletter) where I write about thoughts on growth and productivity, and share my learnings.
+On this page, I write about miscellaneous thoughts and give life updates. You can subscribe below if you think they're interesting.
 
-If you'd like talk about whatever, feel free to [book a call](https://hmoy.me/chat) with me.
+Feel free to reach out to me on [X](https://x.com/harrymoy), it's where I spend far too much of my time.

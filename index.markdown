@@ -4,7 +4,7 @@
 layout: home
 ---
 
-I'm a software engineer working in London for a HealthTech. My previous experience is working in FinTech/
+I'm a software engineer working in London for a HealthTech. My previous experience is working in FinTech.
 
 Away from my day job, I angel invest and build products (such as [Nearly](https://www.producthunt.com/products/nearly)).
 

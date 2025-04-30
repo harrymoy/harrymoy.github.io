@@ -17,3 +17,5 @@ London is the best city in the world. And here are some of my favourite places (
 - The Dreamery, De Beauvoir
 - Udderlicious, Angel
 - Strongroom, Shoreditch
+- Victoria Park, Tower Hamlets
+- Broadway Market, Hackney

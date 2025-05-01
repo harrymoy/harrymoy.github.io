@@ -9,6 +9,8 @@ London is the best city in the world. And here are some of my favourite places (
 - London Mithraeum, Bank/Monument
 - Quality Chophouse, Farrington
 - La Saporita, Finsbury Park
+- W.B. Yeats, Finsbury Park
+- The Faltering Fullback, Finsbury Park
 - J Sheekey, Covent Garden
 - Jolene, Newington Green
 - Tierra Peru, Angel

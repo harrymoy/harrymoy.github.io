@@ -5,6 +5,10 @@ title: Books
 
 **A non-exchaustive list of books I've read recently**
 
+- The Expansion Project
+- Caledonian Road
+- Rendezvous with Rama
+- Foundation
 - The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind
 - Conquerors: How Portugal Forged the First Global Empire
 - Zero to One

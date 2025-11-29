@@ -21,3 +21,4 @@ London is the best city in the world. And here are some of my favourite places (
 - Strongroom, Shoreditch
 - Victoria Park, Tower Hamlets
 - Broadway Market, Hackney
+- Osteria Angelina, Shoreditch High Street

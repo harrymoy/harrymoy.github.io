@@ -5,6 +5,12 @@ title: Books
 
 **A non-exchaustive list of books I've read recently**
 
+- Trust
+- The Definitions
+- Boom: Bubbles and the End of Stagnation
+- Chip War
+- Salt, Fat, Acid, Heat
+- Prisoners of Geography
 - The Expansion Project
 - Caledonian Road
 - Rendezvous with Rama

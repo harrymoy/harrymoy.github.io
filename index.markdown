@@ -4,11 +4,11 @@
 layout: page
 ---
 
-I'm a software engineer working in London for a HealthTech. My previous experience is working in FinTech.
+I write code, I angel invest and make things like [Nearly](https://www.producthunt.com/products/nearly) and [London Lime Parking](https://lime-parking.vercel.app/).
 
-Away from my day job, I angel invest and make things like [Nearly](https://www.producthunt.com/products/nearly) and [London Lime Parking](https://lime-parking.vercel.app/).
+Professionally, I've design and built systems in healthcare, financial services and for designated critical national infrastucture. So, stuff that can't go wrong. When I was 14, I built a website and wrote reviews and news about video games. And one day, an early copy of Skyrim came through my letterbox. Before that I used to make mods for a game called The Movies, where I first learnt to code.
 
-Investments include:
+My angel portfolio includes companies building in:
 - Cultivated meat
 - Renewable energy
 - HR automation

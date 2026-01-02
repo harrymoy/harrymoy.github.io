@@ -38,13 +38,13 @@ And finally, I also plan to switch off more. Reducing doomscrolling is my bigges
 
 I wish you a peaceful and successful 2026 in whatever you choose to do.
 
-2025 highlights (good and bad):
+**2025 highlights (good and bad):**
 - Turned 30
 - Trip to Paris
 - Moved to a new part of London
 - NYC friend visited London
 - Saw Arsenal beat Real Madrid
-- Break-up
+- Ex and I broke-up
 - Met people at a party who quickly became good friends
 - Trip to Vietri in Italy with a friend and beach-maxxed
 - Road trip to Lake District with friends
@@ -60,7 +60,7 @@ I wish you a peaceful and successful 2026 in whatever you choose to do.
 - Posted a tweet that got ~100k views and brought me a lot of abuse from right-wing Twitter
 - Saw in the New Year with friends new and old
 
-2026 plans:
+**2026 plans:**
 - Launch AI assistant for parents
 - Quit nicotine
 - Make my book club a success

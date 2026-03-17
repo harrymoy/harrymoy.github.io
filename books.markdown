@@ -6,7 +6,7 @@ title: Books
 **A non-exchaustive list of books I've read recently**
 
 - The Prophet
-- Metamorphosis
+- The Metamorphosis
 - If Beale Street Could Talk
 - The Sense of an Ending
 - Ill Met by Midnight

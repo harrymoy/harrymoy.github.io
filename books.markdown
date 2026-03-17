@@ -5,6 +5,12 @@ title: Books
 
 **A non-exchaustive list of books I've read recently**
 
+- The Prophet
+- Metamorphosis
+- If Beale Street Could Talk
+- The Sense of an Ending
+- Ill Met by Midnight
+- Pachinko
 - Trust
 - The Definitions
 - Boom: Bubbles and the End of Stagnation

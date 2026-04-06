@@ -5,6 +5,8 @@ title: Books
 
 **A non-exchaustive list of books I've read recently**
 
+- Giovanni's Room
+- On War
 - The Prophet
 - The Metamorphosis
 - If Beale Street Could Talk

@@ -5,6 +5,12 @@ title: Books
 
 **A non-exchaustive list of books I've read recently**
 
+- I Want You To Be Happy
+- A Game of Thrones
+- Crash
+- Empire of the Sun
+- The Unicorn Project
+- The Phoenix Project
 - Giovanni's Room
 - On War
 - The Prophet

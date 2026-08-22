@@ -8,8 +8,6 @@ I'm Head of Engineering at Citipost Global. I write code, I angel invest and mak
 
 Professionally, I've design and built systems in healthcare, financial services and for designated critical national infrastructure. So, stuff that can't go wrong. 
 
-Before that I used to make mods for a game called The Movies, where I first learnt to code.
-
 My angel portfolio includes companies building in:
 - Cultivated meat
 - Renewable energy

@@ -3,8 +3,8 @@ layout: post
 title:  Why I Love the Internet
 date:   2021-07-15 16:00:00 +0000
 permalink: /why-i-love-the-internet
-summary: My personal experience with the internet and why I think it's great. From meeting people and finding your tribe, you get from the internet what you put into it.
-image: /internet.jpg
+description: My personal experience with the internet and why I think it's great. From meeting people and finding your tribe, you get from the internet what you put into it.
+image: /images/internet.jpg
 ---
 
 "But you did meet in a public place, right?" My mum nervously asked when I told her about my two-day trip in June 2021. She was asking because the people I drank, laughed and watched football with, I had never met in person before. I knew them from the internet. Her "stranger danger" alarms were blaring, and I understood why. Meeting people from the internet was something that only recently became  more accepted.

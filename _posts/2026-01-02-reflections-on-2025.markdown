@@ -3,7 +3,7 @@ layout: post
 title:  Reflections on 2025
 date:   2026-01-02 16:00:00 +0000
 permalink: /reflections-on-2025
-summary: My personal experience with the internet and why I think it's great. From meeting people and finding your tribe, you get from the internet what you put into it.
+description: A year of change - a new job, a break-up, and the death of my grandmother - and the clarity that came out of the other side.
 ---
 
 2025 was a year of change.

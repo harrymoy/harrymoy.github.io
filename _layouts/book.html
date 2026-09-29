@@ -1,9 +1,18 @@
 ---
 layout: default
 ---
-<h1>{{ page.book_name }}</h1>
-<h2>{{ page.author }}</h2>
+<article class="page">
+  <p class="meta">Book notes &middot; {{ page.author }}</p>
+  <h1>{{ page.book_name }}</h1>
+  <div class="prose">
+    {%- if page.amazon -%}
+    <p><a href="{{ page.amazon }}" rel="noopener">Find it on Amazon</a></p>
+    {%- endif -%}
+    {{ content }}
+  </div>
+</article>
 
-<a href={{ page.amazon }}>Amazon</a>
-<p></p>
-{{ content }}
+<nav class="post-nav" aria-label="Book">
+  <a href="{{ '/' | relative_url }}">&larr; Home</a>
+  <a href="{{ '/books' | relative_url }}">All books &rarr;</a>
+</nav>

@@ -1,47 +1,48 @@
 ---
-layout: default
+layout: page
 title: Books
+permalink: /books
 ---
 
-**A non-exchaustive list of books I've read recently**
+**A non-exhaustive list of books I've read recently**
 
-- I Want You To Be Happy
-- A Game of Thrones
-- Crash
-- Empire of the Sun
-- The Unicorn Project
-- The Phoenix Project
-- Giovanni's Room
-- On War
-- The Prophet
-- The Metamorphosis
-- If Beale Street Could Talk
-- The Sense of an Ending
-- Ill Met by Midnight
-- Pachinko
-- Trust
-- The Definitions
-- Boom: Bubbles and the End of Stagnation
-- Chip War
-- Salt, Fat, Acid, Heat
-- Prisoners of Geography
-- The Expansion Project
-- Caledonian Road
-- Rendezvous with Rama
-- Foundation
-- The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind
-- Conquerors: How Portugal Forged the First Global Empire
-- Zero to One
-- Can't Hurt Me
-- Show Your Work!
-- The Biggest Bluff
-- Ways of Seeing
-- Why We Sleep
-- Kaput!
-- A Liberatian Walks Into a Bear
-- Steve Jobs
-- When McKinsey Comes to Town
-- Born Standing Up
-- Three Body Problem
-- Measure What Matters
-- The Rise of Theodore Roosevelt
+- I Want You To Be Happy, Jem Calder
+- A Game of Thrones, George R.R. Martin
+- Crash, J.G. Ballard
+- Empire of the Sun, J.G. Ballard
+- The Unicorn Project, Gene Kim
+- The Phoenix Project, Gene Kim, Kevin Behr and George Spafford
+- Giovanni's Room, James Baldwin
+- On War, Carl von Clausewitz
+- The Prophet, Kahlil Gibran
+- The Metamorphosis, Franz Kafka
+- If Beale Street Could Talk, James Baldwin
+- The Sense of an Ending, Julian Barnes
+- Ill Met by Midnight, W. Stanley Moss
+- Pachinko, Min Jin Lee
+- Trust, Hernan Diaz
+- The Definitions, Matt Greene
+- Boom: Bubbles and the End of Stagnation, Byrne Hobart and Tobias Huber
+- Chip War, Chris Miller
+- Salt, Fat, Acid, Heat, Samin Nosrat
+- Prisoners of Geography, Tim Marshall
+- The Expansion Project, Ben Pester
+- Caledonian Road, Andrew O'Hagan
+- Rendezvous with Rama, Arthur C. Clarke
+- Foundation, Isaac Asimov
+- The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind, Dan Davies
+- Conquerors: How Portugal Forged the First Global Empire, Roger Crowley
+- Zero to One, Peter Thiel
+- Can't Hurt Me, David Goggins
+- Show Your Work!, Austin Kleon
+- The Biggest Bluff, Maria Konnikova
+- Ways of Seeing, John Berger
+- Why We Sleep, Matthew Walker
+- Kaput!, Wolfgang Münchau
+- A Libertarian Walks Into a Bear, Matthew Hongoltz-Hetling
+- Steve Jobs, Walter Isaacson
+- When McKinsey Comes to Town, Walt Bogdanich and Michael Forsythe
+- Born Standing Up, Steve Martin
+- Three Body Problem, Cixin Liu
+- Measure What Matters, John Doerr
+- The Rise of Theodore Roosevelt, Edmund Morris

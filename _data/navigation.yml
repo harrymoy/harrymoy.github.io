@@ -1,12 +1,7 @@
-- name: Home
-  link: /
-- name: About
-  link: /about
-- name: Notes
-  link: /notes
+# Site navigation. Add a page here and it appears in the header.
+- name: Posts
+  link: /posts
 - name: Books
   link: /books
 - name: London
   link: /london
-- name: Posts
-  link: /posts

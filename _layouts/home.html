@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<section class="intro">
+  <h1>{{ page.heading }}</h1>
+  {{ content }}
+  <p class="contact">
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+    <a href="https://x.com/{{ site.twitter_username }}">X</a>
+  </p>
+</section>
+
+<section aria-labelledby="work">
+  <h2 class="section-label" id="work">Work</h2>
+  <ul class="work-list">
+    {%- for job in site.data.work -%}
+    <li>
+      <span class="work-list__years">{{ job.years }}</span>
+      <div>
+        <p class="work-list__role">{{ job.role }}</p>
+        <p class="work-list__note">{{ job.note }}</p>
+      </div>
+    </li>
+    {%- endfor -%}
+  </ul>
+</section>
+
+<section aria-labelledby="made">
+  <h2 class="section-label" id="made">Things I&rsquo;ve made</h2>
+  <ul class="project-list">
+    {%- for project in site.data.projects -%}
+    <li><a href="{{ project.url }}">{{ project.name }}</a> <span class="project-list__note">&mdash; {{ project.note }}</span></li>
+    {%- endfor -%}
+  </ul>
+</section>
+
+<section aria-labelledby="investing">
+  <h2 class="section-label" id="investing">Angel investing</h2>
+  <p class="investing">{{ page.investing }}</p>
+</section>
+
+<section aria-labelledby="writing">
+  <div class="section-head">
+    <h2 class="section-label" id="writing">Writing</h2>
+    <a class="all-posts" href="{{ '/posts' | relative_url }}">All posts &rarr;</a>
+  </div>
+  {%- assign latest = site.posts | slice: 0, 5 -%}
+  {%- include post-list.html posts=latest -%}
+</section>

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="post">
+  <p class="meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %b %Y" }}</time>
+    &middot; {{ content | strip_html | number_of_words | divided_by: 200 | plus: 1 }} min read
+  </p>
+  <h1>{{ page.title }}</h1>
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>
+
+<nav class="post-nav" aria-label="Post">
+  <a href="{{ '/' | relative_url }}">&larr; Home</a>
+  <a href="{{ '/posts' | relative_url }}">All posts &rarr;</a>
+</nav>

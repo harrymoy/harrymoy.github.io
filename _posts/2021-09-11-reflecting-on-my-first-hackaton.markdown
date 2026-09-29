@@ -3,8 +3,7 @@ layout: post
 title: Reflecting on my First Hackathon
 date:   2021-09-11 9:00:00 +0000
 permalink: /first-hackathon-reflection
-summary: In August I entered my first hackathon. I didn't realize going into it how much I would learn, but also how much I'd discover about myself
-image: /
+description: In August I entered my first hackathon. I didn't realize going into it how much I would learn, but also how much I'd discover about myself
 ---
 We stared blankly at our screens after hours of frustration. There was plenty of code there. None of it was working. "Wanna another doughnut?" I asked Sam. Only the high of sugar could get us through this dip in motivation. What we were building wasn't working. I had reached mental rock bottom and asked myself, "why am I doing this?"
 

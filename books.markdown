@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Books
+permalink: /books
 ---
 
 **A non-exchaustive list of books I've read recently**

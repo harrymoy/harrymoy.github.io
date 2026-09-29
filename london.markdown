@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: London
+permalink: /london
 ---
 
 London is the best city in the world. And here are some of my favourite places (very biased towards North/East London):

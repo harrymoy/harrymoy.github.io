@@ -67,3 +67,23 @@
   area: Shoreditch High Street
   lat: 51.5222
   lng: -0.0742
+- name: Legare
+  area: Tower Bridge
+  lat: 51.5033
+  lng: -0.0738
+- name: The Dove
+  area: Broadway Market
+  lat: 51.5366
+  lng: -0.0616
+- name: De Beauvoir Deli
+  area: De Beauvoir
+  lat: 51.5411
+  lng: -0.0849
+- name: Andrew Edmunds
+  area: Soho
+  lat: 51.5131
+  lng: -0.1362
+- name: Coach and Horses
+  area: Soho
+  lat: 51.5133
+  lng: -0.1302

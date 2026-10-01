@@ -1,0 +1,44 @@
+---
+layout: default
+title: Books
+permalink: /books
+---
+<article class="page">
+  <h1>Books</h1>
+  <p class="page-lede">A non-exhaustive shelf of books I've read recently. Hover over a spine to see what it is. Books with a ribbon have notes.</p>
+
+  <div class="bookcase" data-bookcase>
+    <svg class="sketch-defs" aria-hidden="true" focusable="false">
+      <filter id="wobble">
+        <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.5" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+    </svg>
+
+    <ul class="shelf">
+      {%- for book in site.data.bookshelf -%}
+        {%- assign i = forloop.index0 -%}
+        {%- assign w = i | times: 7 | modulo: 13 | plus: 22 -%}
+        {%- assign h = i | times: 23 | modulo: 37 | plus: 110 -%}
+        {%- assign c = i | times: 3 | modulo: 8 -%}
+        {%- assign d = i | times: 5 | modulo: 4 -%}
+        {%- assign label = book.title | append: ' by ' | append: book.author -%}
+        <li class="shelf__slot">
+          {%- if book.notes -%}
+          <a class="spine spine--c{{ c }} spine--d{{ d }} spine--notes" href="{{ book.notes | relative_url }}" style="--w: {{ w }}px; --h: {{ h }}px" data-title="{{ book.title | escape }}" data-author="{{ book.author | escape }}" aria-label="{{ label | escape }} (read my notes)"><span class="spine__ribbon"></span></a>
+          {%- else -%}
+          <span class="spine spine--c{{ c }} spine--d{{ d }}" tabindex="0" role="img" style="--w: {{ w }}px; --h: {{ h }}px" data-title="{{ book.title | escape }}" data-author="{{ book.author | escape }}" aria-label="{{ label | escape }}"></span>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+    <div class="book-tip" role="status" aria-live="polite" hidden>
+      <strong class="book-tip__title"></strong>
+      <span class="book-tip__author"></span>
+      <span class="book-tip__notes">Click to read my notes</span>
+    </div>
+  </div>
+</article>
+
+<script src="{{ '/assets/js/bookshelf.js' | relative_url }}" defer></script>

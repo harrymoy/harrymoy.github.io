@@ -1,0 +1,69 @@
+# Favourite places in London. Each one gets a marker on the /london map.
+- name: Emirates Stadium
+  area: Arsenal
+  lat: 51.5549
+  lng: -0.1084
+- name: London Mithraeum
+  area: Bank/Monument
+  lat: 51.5124
+  lng: -0.0910
+- name: Quality Chop House
+  area: Farringdon
+  lat: 51.5246
+  lng: -0.1097
+- name: La Saporita
+  area: Finsbury Park
+  lat: 51.5640
+  lng: -0.1125
+- name: W.B. Yeats
+  area: Finsbury Park
+  lat: 51.5640
+  lng: -0.1095
+- name: The Faltering Fullback
+  area: Finsbury Park
+  lat: 51.5660
+  lng: -0.1080
+- name: J Sheekey
+  area: Covent Garden
+  lat: 51.5114
+  lng: -0.1274
+- name: Jolene
+  area: Newington Green
+  lat: 51.5527
+  lng: -0.0849
+- name: Tierra Peru
+  area: Angel
+  lat: 51.5395
+  lng: -0.0960
+- name: St John
+  area: Clerkenwell
+  lat: 51.5204
+  lng: -0.1016
+- name: Tate Modern
+  area: Blackfriars
+  lat: 51.5076
+  lng: -0.0994
+- name: The Dreamery
+  area: De Beauvoir
+  lat: 51.5400
+  lng: -0.0890
+- name: Udderlicious
+  area: Angel
+  lat: 51.5440
+  lng: -0.1030
+- name: Strongroom
+  area: Shoreditch
+  lat: 51.5263
+  lng: -0.0806
+- name: Victoria Park
+  area: Tower Hamlets
+  lat: 51.5362
+  lng: -0.0400
+- name: Broadway Market
+  area: Hackney
+  lat: 51.5375
+  lng: -0.0617
+- name: Osteria Angelina
+  area: Shoreditch High Street
+  lat: 51.5222
+  lng: -0.0742

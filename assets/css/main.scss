@@ -583,11 +583,24 @@ a.spine { cursor: pointer; }
 
 .london-map .maplibregl-popup-tip { display: none; }
 
+.place-popup__tag {
+  display: table;
+  margin-bottom: 6px;
+  padding: 1px 6px;
+  border: 1.5px solid var(--ink);
+  border-radius: 3px;
+  font-family: var(--mono);
+  font-size: 11px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
 .london-map .maplibregl-ctrl-attrib { font-family: var(--mono); font-size: 11px; }
 
 .pin {
-  width: 18px;
-  height: 18px;
+  width: 28px;
+  height: 28px;
   padding: 0;
   border: 0;
   background: none;
@@ -603,6 +616,18 @@ a.spine { cursor: pointer; }
   border-radius: 50% 50% 50% 46%;
   box-shadow: 2px 2px 0 var(--ink);
   transition: transform 0.15s ease;
+}
+
+.pin__dot svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 3px;
+  fill: none;
+  stroke: var(--bg);
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .pin:hover .pin__dot,

@@ -1,89 +1,112 @@
 # Favourite places in London. Each one gets a marker on the /london map.
+# type picks the pin icon: restaurant, pub, bar, cafe, bakery, ice cream, museum, park, market or stadium.
 - name: Emirates Stadium
+  type: stadium
   area: Arsenal
   lat: 51.5549
   lng: -0.1084
 - name: London Mithraeum
+  type: museum
   area: Bank/Monument
   lat: 51.5124
   lng: -0.0910
 - name: Quality Chop House
+  type: restaurant
   area: Farringdon
   lat: 51.5246
   lng: -0.1097
 - name: La Saporita
+  type: restaurant
   area: Finsbury Park
   lat: 51.5640
   lng: -0.1125
 - name: W.B. Yeats
+  type: pub
   area: Finsbury Park
   lat: 51.5640
   lng: -0.1095
 - name: The Faltering Fullback
+  type: pub
   area: Finsbury Park
   lat: 51.5660
   lng: -0.1080
 - name: J Sheekey
+  type: restaurant
   area: Covent Garden
   lat: 51.5114
   lng: -0.1274
 - name: Jolene
+  type: bakery
   area: Newington Green
   lat: 51.5527
   lng: -0.0849
 - name: Tierra Peru
+  type: restaurant
   area: Angel
   lat: 51.5395
   lng: -0.0960
 - name: St John
+  type: restaurant
   area: Clerkenwell
   lat: 51.5204
   lng: -0.1016
 - name: Tate Modern
+  type: museum
   area: Blackfriars
   lat: 51.5076
   lng: -0.0994
 - name: The Dreamery
+  type: ice cream
   area: De Beauvoir
   lat: 51.5400
   lng: -0.0890
 - name: Udderlicious
+  type: ice cream
   area: Angel
   lat: 51.5440
   lng: -0.1030
 - name: Strongroom
+  type: bar
   area: Shoreditch
   lat: 51.5263
   lng: -0.0806
 - name: Victoria Park
+  type: park
   area: Tower Hamlets
   lat: 51.5362
   lng: -0.0400
 - name: Broadway Market
+  type: market
   area: Hackney
   lat: 51.5375
   lng: -0.0617
 - name: Osteria Angelina
+  type: restaurant
   area: Shoreditch High Street
   lat: 51.5222
   lng: -0.0742
 - name: Legare
+  type: restaurant
   area: Tower Bridge
   lat: 51.5033
   lng: -0.0738
 - name: The Dove
+  type: pub
   area: Broadway Market
   lat: 51.5366
   lng: -0.0616
 - name: De Beauvoir Deli
+  type: cafe
   area: De Beauvoir
   lat: 51.5411
   lng: -0.0849
 - name: Andrew Edmunds
+  type: restaurant
   area: Soho
   lat: 51.5131
   lng: -0.1362
 - name: Coach and Horses
+  type: pub
   area: Soho
   lat: 51.5133
   lng: -0.1302

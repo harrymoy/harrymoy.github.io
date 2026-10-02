@@ -16,7 +16,7 @@ permalink: /london
 
   <ul class="visually-hidden">
     {%- for place in site.data.london %}
-    <li>{{ place.name }}, {{ place.area }}</li>
+    <li>{{ place.name }} ({{ place.type }}), {{ place.area }}</li>
     {%- endfor %}
   </ul>
 </article>
